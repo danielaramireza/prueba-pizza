@@ -1,19 +1,18 @@
-# Tutorial de pizza
+# Pasos para preparar una pizza
 
 A continuacion se listan los pasos necesarios para hacer una pizza.
 
-![Imagen de una Pizza Margarita](https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg)
+![Pizza casera](https://cdn0.recetasgratis.net/es/posts/1/9/3/pizza_casera_31391_600.jpg)
 
-## Tutorial
-
-1. Se precalienta el horno a 180º
-2. Se prepara la masa
-3. Se prepara la salsa a base de tomate
-4. Se cortan y preparan los ingredientes (Jamón, queso, etc.)
-5. Se extiende la masa con la ayuda de un rodillo, intentando que la forma de esta quede circular
+1. Elegir el sabor de la pizza
+2. Buscar los ingredientes
+3. Se cortan y preparan los ingredientes (Jamón, queso, etc.)
+4. Se extiende la masa con la ayuda de un rodillo, intentando que la forma de esta quede circular
+5. Preparar la salsa de tomate casera
 6. Se aplica la pasta de tomate sobre la masa
-7. Se esparcen los ingredientes sobre la pizza
-8. Con el horno precalentado, se introduce la pizza al horno por 20 minutos
-9. Sacar la pizza de horno
-10. Cortar la pizza en porciones triangulares
-11. Servir y disfrutar!
+7. Precalentar el horno a 180º
+8. Agregar los ingredientes a la masa
+9. Hornear la pizza durante 20 minutos
+10. Sacar la pizza del horno
+11. Cortar la pizza en porciones triangulares
+12. Servir y disfrutar
